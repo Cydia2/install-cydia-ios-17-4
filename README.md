@@ -6,7 +6,13 @@ With Jay Freeman's Cydia becoming outdated, Cydia Plus emerges as the ultimate r
 
 ## Cydia Plus | Best No Jailbreak App Manager for iOS 17 - iOS 17.4
 
-📥 [Install Cydia Plus for iOS 17.4](https://iospack.com/store/#cydia)
+![Cover Image](https://github.com/Cydia2/install-cydia-ios-17-4/blob/main/Assets/Cydia%20For%20iOS%2017.4.png)
+
+<div align="center">
+  
+📥 [Install Cydia Plus for iOS 17.4](https://iospack.com/#Cydia-Plus)
+
+</div>
 
 ## Latest Cydia Plus Repos for iOS 17.4
 
