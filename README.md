@@ -53,6 +53,20 @@ Access the latest and greatest iOS games with Cydia Plus for iOS 17.4. Explore a
 
 Elevate your iOS 17.4 experience with the best Cydia Plus tweaks available. Transform your iPhone or iPad without the need for jailbreaking. Explore and install top tweaks tailored for iPadOS 17.4 and iOS 17.4, unlocking new features and customization options for your device.
 
+## How to Jailbreak iOS 17 - iOS 17.4 with/without Computer [New Guide]
+
+The process of jailbreaking iOS versions 17, 17.2, and 17.3 has been successfully accomplished using the checkm8 exploit. A multitude of solutions for jailbreak repo extraction and virtual jailbreaking have been confirmed to work for iOS versions ranging from 17 to 17.3.1.
+
+The beauty of these methods is that they do away with the need for a computer or the intricate sideload procedures that are usually associated with repo extraction and virtual jailbreaking. These solutions can be installed directly as an app, which then activates the jailbreak features for iOS versions 17, 17.2, 17.3, 17.4, and beyond. This provides a more user-friendly way to access the benefits of jailbreaking across a range of iOS versions.
+
+📥 [Best iOS 17 - iOS 17.5 Jailbreak tools](https://github.com/iOS17Updates/iOS-17-Jailbreak#best-ios-17---ios-174-jailbreak-solutions-latest)
+
+📥 [Repo extraction based iOS 17 - 17.3.1 Jailbreak solutions
+](https://github.com/iOS17Updates/iOS-17-Jailbreak#jailbreak-repo-extractor-based-ios-17---ios-174-jailbreak-solutions)
+
+📥 [Checkm8 exploit based iOS 17 - 17.3 Jailbreak solutions
+](https://github.com/iOS17Updates/iOS-17-Jailbreak#checkm8-based-jailbreak-for-ios-17---ios-174-jailbreak)
+
 ## Frequently Asked Questions about Cydia for iOS 17.4
 
 1. **What exactly is Cydia Plus?**  
